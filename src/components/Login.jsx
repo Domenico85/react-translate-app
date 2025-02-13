@@ -1,5 +1,5 @@
-// src/components/Login.jsx
-import React, { useState } from 'react';
+
+import { useState } from 'react';
 import { loginUser } from '../services/authService';
 
 const Login = () => {

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
-import Translator from "./Translator";
+import Translator from "./components/Translator";
+
 
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);

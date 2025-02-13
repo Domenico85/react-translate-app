@@ -1,3 +1,15 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  margin-top: 50px;
+}
+
 body.dark-mode {
   background-color: #121212;
   color: white;
